@@ -4,5 +4,41 @@
     --third-color: #757575;
     --fourth-color: #ffffff;
     --fifth-color: #2F303A;
-    --sixth-color: #F5F4FA; 
-}
+    --sixth-color: #F5F4FA;
+    --seventh-color: #000000; }
+.logo{
+    color: var(--seventh-color);}
+.logo-span{
+    color: var(--first-color);}
+.nav{
+    color: var(--second-color);}
+.nav:hover{
+    color: var(--first-color);}
+.contakts{
+color: var(--third-color);}
+.contakts:hover{
+    color: var(--first-color);}
+.hero{
+ background-color: var(--fifth-color);   }
+.big-title{
+    color: var(--fourth-color);}
+.button{
+    color: var(--first-color);}
+.mini-title{
+    color: var(--second-color);}
+.text{
+    color: var(--third-color);}
+.foot{
+    background-color: var(--fifth-color);}
+.logo2{
+    color: var(--fourth-color);}
+.logo2-span{
+    color: var(--first-color);}
+.adress{
+    color: var(--fourth-color);}
+.nav2{
+    color: var(--second-color);
+    background-color: var(--sixth-color);}
+.nav2:hover{
+    color:var(--fourth-color);
+    background-color: var(--first-color);}
